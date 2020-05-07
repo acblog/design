@@ -40,8 +40,18 @@ Data
 
 - User
   - Get(id)
+  - Create(post)
+  - Delete(id)
+  - Update(post)
+  - Query(...)
 - Post
   - Get(id)
   - Create(post)
   - Delete(id)
   - Update(post)
+  - Query(...)
+- Article {} : Filter
+- Slides {} : Filter
+- Category {} : Filter
+- Keywords {} : Filter
+- User {} : Filter
