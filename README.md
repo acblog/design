@@ -1,3 +1,9 @@
+# Status of AcBlog
+
+1. Source ![CI](https://github.com/acblog/acblog/workflows/CI/badge.svg)
+2. Mirrors ![Mirror](https://github.com/acblog/mirrors/workflows/Mirror/badge.svg)
+3. WASM GHPages Action ![Action CI](https://github.com/acblog/wasm-ghpages-generate-action/workflows/Action%20CI/badge.svg)
+
 # Designs of AcBlog
 
 ## Architecture
